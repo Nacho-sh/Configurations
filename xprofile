@@ -1,0 +1,14 @@
+setxkbmap es
+picom -b
+xrdb ~/.Xresources
+numlockx
+
+
+
+
+
+
+
+
+
+
